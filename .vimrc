@@ -2,6 +2,8 @@ filetype off
 filetype plugin indent off
 filetype plugin indent on
 
+colorscheme industry
+
 syntax on
 set number
 set encoding=utf8
@@ -80,5 +82,3 @@ vnoremap <Up> gk
 " when indenting with < and >, make it easy to repeat
 xnoremap < <gv
 xnoremap > >gv
-
-
